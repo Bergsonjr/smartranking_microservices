@@ -1,3 +1,6 @@
 [submodule "smartranking_admin_microservice"]
 	path = smartranking_admin_microservice
 	url = git@github.com:Bergsonjr/smartranking_admin_microservice.git
+[submodule "smartranking_api-gateway"]
+	path = smartranking_api-gateway
+	url = git@github.com:Bergsonjr/smartranking_api-gateway.git
